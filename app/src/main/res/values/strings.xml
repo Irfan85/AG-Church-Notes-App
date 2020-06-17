@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tahmid\'s Notes</string>
+    <string name="empty_note_list_text">Currently no notes are available</string>
+    <string name="no_connection_text">Network unavailable</string>
+</resources>
